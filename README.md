@@ -1,2 +1,2 @@
-# Task3
-Dealroom Internship Task
+# Exercise 3
+Duplicate Detection
